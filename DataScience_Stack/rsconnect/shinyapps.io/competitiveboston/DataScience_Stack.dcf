@@ -1,0 +1,12 @@
+name: DataScience_Stack
+title: DataScience_Stack
+username:
+account: competitiveboston
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2409916
+bundleId: 3234943
+url: https://kozissnikb.shinyapps.io/DataScience_Stack/
+when: 1591411109.84424
+asMultiple: FALSE
+asStatic: FALSE
